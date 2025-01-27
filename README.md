@@ -16,3 +16,6 @@
 
 ## Materials
 * https://github.com/davewadestein/Salesforce-Python-Fundamentals
+
+## Question Parking Lot
+* Sean's question: __`str('a string')`__ could be an error–how do we check that?
