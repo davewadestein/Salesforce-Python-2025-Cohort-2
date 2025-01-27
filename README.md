@@ -10,8 +10,9 @@
 * Thu Feb. 6th  2-6 Central
 
 ## Tech Setup
-* Any operating system with Python 3.x installed (preferably 3.10 or better)
-* Visual Studio Code (https://code.visualstudio.com/)
+* install Python
+* Visual Studio Code: https://code.visualstudio.com/
+* `pip install jupyter`
 
 ## Materials
 * https://github.com/davewadestein/Salesforce-Python-Fundamentals
