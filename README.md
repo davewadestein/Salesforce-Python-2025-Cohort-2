@@ -3,6 +3,10 @@
 ## How to reach me
 * dave@developintelligence.com
 
+## Thursday 1-Question Polls
+* https://xoyondo.com/op/2h5w7as9wuo6r1n
+* https://xoyondo.com/op/mnovo4x90xurtxz
+
 ## Schedule
 * Mon Jan. 27th 2-6 Central
 * Thu Jan. 30th 2-6 Central
