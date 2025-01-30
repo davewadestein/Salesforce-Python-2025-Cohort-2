@@ -16,7 +16,6 @@
 ## Tech Setup
 * install Python
 * Visual Studio Code: https://code.visualstudio.com/
-* `pip install jupyter`
 
 ## Materials
 * https://github.com/davewadestein/Salesforce-Python-Fundamentals
