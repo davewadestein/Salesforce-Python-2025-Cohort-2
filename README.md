@@ -3,6 +3,12 @@
 ## How to reach me
 * dave@developintelligence.com
 
+## Homework (if you want)
+* Fibonacci from notebook 1
+* have ChatGPT or similar quiz you on slicing or any topic you want practice with
+   * paste one of your bits of code into ChatGPT and have it ask you to write similar exercises
+   * be sure to tell it you are a Python beginner
+
 ## Thursday 1-Question Polls
 * https://xoyondo.com/op/2h5w7as9wuo6r1n
 * https://xoyondo.com/op/mnovo4x90xurtxz
