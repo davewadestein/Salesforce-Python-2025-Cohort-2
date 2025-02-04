@@ -8,10 +8,9 @@
 * https://xoyondo.com/op/3xrh01e6ryd1mmc
 
 ## Homework (if you want)
-* Fibonacci from notebook 1
-* have ChatGPT or similar quiz you on slicing or any topic you want practice with
-   * paste one of your bits of code into ChatGPT and have it ask you to write similar exercises
-   * be sure to tell it you are a Python beginner
+* Lab: String Functions from Notebook 1
+* get help from ChatGPT/Claude if you like
+* have AI quiz you (give you exercises) on topics you feel like you need more help with
 
 ## Thursday 1-Question Polls
 
